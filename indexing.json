@@ -20,13 +20,13 @@
     "tags": ["portfolio", "static", "personal"]
   },
   {
-    "name": "Bits to Bandwidth",
-    "url": "https://5pyd3rr.is-a.dev/Bits-to-Bandwidth/",
-    "description": "Computer Networks resource library — slides, PDFs, and textbooks.",
+    "name": "Knowledge Base",
+    "url": "https://lib.5pyd3r.org",
+    "description": "Structured technical resources — networking, security, and beyond.",
     "category": "education",
-    "deployed_on": "GitHub Pages",
-    "repo": "https://github.com/3rr0r-505/Bits-to-Bandwidth",
+    "deployed_on": "Cloudflare Pages",
+    "repo": "https://github.com/5pyd3r-labs/knowledge-base",
     "status": "live",
-    "tags": ["networking", "resources", "education"]
+    "tags": ["education", "resources", "reference"]
   }
 ]
