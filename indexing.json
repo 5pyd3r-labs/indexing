@@ -1,5 +1,15 @@
 [
   {
+    "name": "Indexing",
+    "url": "https://index.5pyd3r.org",
+    "description": "Central index of all deployments and projects under 5pyd3r.org.",
+    "category": "personal",
+    "deployed_on": "Cloudflare Pages",
+    "repo": "https://github.com/5pyd3r-labs/indexing",
+    "status": "live",
+    "tags": ["index", "directory", "static"]
+  },
+  {
     "name": "Portfolio",
     "url": "https://me.5pyd3r.org",
     "description": "Personal portfolio — projects, blog, and contact.",
