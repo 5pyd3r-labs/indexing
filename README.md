@@ -1,6 +1,6 @@
 # indexing
 
-> A self-hosted index of every deployment, tool, and project under [5pyd3r.org](https://5pyd3r.org) — one place to track them all.
+> A self-hosted index of every deployment, tool, and project under 5pyd3r.org — one place to track them all.
 
 Live at → [index.5pyd3r.org](https://index.5pyd3r.org)
 
